@@ -1,0 +1,139 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 0,
+  "do_objectID": "78A13288-8CE0-402A-8302-8FD6A08CD08C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 590,
+    "width": 243,
+    "x": 1101,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "0F3440D4-4F63-4728-97B2-4CC33DAB681E"
+    },
+    {
+      "class": "text",
+      "id": "05FDF4D1-FF99-4B4E-96F1-92FDDA7A1306"
+    },
+    {
+      "class": "text",
+      "id": "340EB7B8-7CC7-4972-B535-67F3A5F40CD0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FF904776-1D9F-4C0E-87FB-99E006307A26"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "73A91377-35AA-4E57-BA8D-F15D769B9552"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "42B87BFF-1919-4455-A948-BD0029FF03B1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "34F151C4-1AD5-4F8A-B362-75372B159772"
+    },
+    {
+      "class": "text",
+      "id": "331BF2D4-9D5F-4EF6-8678-A6F2142E955D"
+    },
+    {
+      "class": "text",
+      "id": "A2FF896E-932E-4759-BD45-86FC15F4E71D"
+    },
+    {
+      "class": "text",
+      "id": "FB15C5FA-E8E0-4962-B201-1475D5BEE7A5"
+    },
+    {
+      "class": "text",
+      "id": "6F2CE2A5-C8E3-40AA-B8D7-0920D4D4CF1D"
+    },
+    {
+      "class": "text",
+      "id": "34E4D32E-E0C2-4AED-B927-8A25277A7388"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4544C5BE-82E3-4B95-BA42-1D69D7705D88"
+    },
+    {
+      "class": "text",
+      "id": "BF3CE3A5-4D8F-48DE-9F97-A526968D0AFF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9B424AFF-E487-4F50-8B47-ADA7FFC387A6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8DD98659-0D47-4497-81F9-1D91CCA224CE"
+    },
+    {
+      "class": "text",
+      "id": "89A84206-3D52-4355-B1D7-C5BF4E625F98"
+    },
+    {
+      "class": "text",
+      "id": "A588B55E-DEAF-4F29-AC44-2CA438D17B3B"
+    }
+  ],
+  "name": "Desktop Sidebar",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D65C37FE-12A8-4E05-8D25-9E82A841BDFE",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

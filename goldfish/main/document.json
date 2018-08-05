@@ -1,0 +1,103 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2823529411764706,
+        "green": 0.2823529411764706,
+        "red": 0.2823529411764706
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9294117647058824,
+        "green": 0.9372549019607843,
+        "red": 0.9294117647058824
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3882352941176471,
+        "green": 0.3607843137254902,
+        "red": 0.9921568627450981
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5372549019607843,
+        "green": 0.5176470588235293,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8627450980392157,
+        "green": 0.792156862745098,
+        "red": 0.4313725490196079
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1254901960784314,
+        "green": 0.6588235294117647,
+        "red": 0.9137254901960784
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3882352941176471,
+        "green": 0.08235294117647059,
+        "red": 0.8784313725490196
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5686274509803921,
+        "green": 0.7254901960784313,
+        "red": 0.2431372549019608
+      }
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "A9C46C73-F451-40CE-8779-60C062C3B2F2",
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "48.2",
+    "build": 47327,
+    "commit": "b8111e3393c4ca1f2399ecfdfc1e9488029ebe7b",
+    "version": 97
+  },
+  "pages": [
+    "Branding",
+    "Home",
+    "Post",
+    "Symbols"
+  ]
+}

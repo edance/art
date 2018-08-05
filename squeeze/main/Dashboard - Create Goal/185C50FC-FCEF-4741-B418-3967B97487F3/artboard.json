@@ -1,0 +1,120 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.984313725490196,
+    "green": 0.984313725490196,
+    "red": 0.984313725490196
+  },
+  "booleanOperation": 0,
+  "do_objectID": "185C50FC-FCEF-4741-B418-3967B97487F3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "16F2AF49-8B88-4350-A780-75936749F43A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C0AF6BB1-6BAD-4FD4-9B98-8CAD3FDF7A1B",
+    "height": 800,
+    "width": 1440,
+    "x": 970,
+    "y": -364
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B84E59E3-C80F-4D1E-9EA9-943BE5952405",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "08C3437F-7ECD-433B-A015-30CC6998101F"
+    },
+    {
+      "class": "group",
+      "id": "44F5FFD6-BD8E-46FC-A4C7-7FF5F6DE50E9"
+    },
+    {
+      "class": "group",
+      "id": "9FF6B609-816C-4297-AA75-83FD43F04E7B"
+    },
+    {
+      "class": "group",
+      "id": "89DF64CD-375F-419D-8291-D8996A7677C4"
+    },
+    {
+      "class": "text",
+      "id": "0336D179-E3C6-48C2-A657-1B4137BE3F12"
+    },
+    {
+      "class": "text",
+      "id": "CDF7331B-DD4C-4F53-ACA3-D8ADDFE98FBB"
+    },
+    {
+      "class": "group",
+      "id": "DB7A7F2D-8D0A-4970-A9EB-1425D1E3906D"
+    },
+    {
+      "class": "text",
+      "id": "DB81C45F-0958-4F10-8170-99B12833CB4A"
+    },
+    {
+      "class": "text",
+      "id": "1C23CA1D-4E38-4C11-8295-5E88E43BBEFA"
+    },
+    {
+      "class": "text",
+      "id": "7F4F6727-5438-4A92-AA47-E695D528E254"
+    }
+  ],
+  "name": "Laptop",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 800,
+    "name": "Laptop",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C46EB8A1-70AA-4DE3-83FE-5F3F8D1C4661",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E397D89E-106A-488B-88AD-6C1F9DAD29D9",
+    "guides": [
+    ]
+  }
+}

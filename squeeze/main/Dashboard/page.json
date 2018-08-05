@@ -1,0 +1,66 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "do_objectID": "E6788436-4776-4249-A6F9-71932B989B14",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5BA1D8E7-C900-44B9-88FF-B5EF1B08AFAF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A62FE0BA-7688-46B5-83AF-5363CC2CD032",
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -356,
+    "do_objectID": "8A9B0524-AF5A-454B-8671-28F376226443",
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "7A3CD702-B136-43DA-9EB0-849DDAE10AA9"
+    }
+  ],
+  "name": "Dashboard",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "49BF29CF-59F8-4E85-99A8-7F4C2164F3CF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -255,
+    "do_objectID": "877F36D7-9711-48C7-A16A-ED5DA0F78114",
+    "guides": [
+    ]
+  }
+}

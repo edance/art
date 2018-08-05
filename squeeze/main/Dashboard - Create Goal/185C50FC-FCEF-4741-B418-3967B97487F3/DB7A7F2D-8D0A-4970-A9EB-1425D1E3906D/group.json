@@ -1,0 +1,103 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "DB7A7F2D-8D0A-4970-A9EB-1425D1E3906D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E405A3EF-8E19-4D4A-80AF-1475F34669D5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9A785A72-3BF1-4071-B5E7-6D80612BA568",
+    "height": 800,
+    "width": 254,
+    "x": -4,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EF39EA50-3064-41B9-A49B-8F96CB5D3F32"
+    },
+    {
+      "class": "text",
+      "id": "0D05C5BD-F4E6-40AD-8EDF-88E77C6D8912"
+    },
+    {
+      "class": "group",
+      "id": "066C53C5-D858-4A31-A24F-716A79A53DA7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2B280F38-679D-42A7-8216-778F5E5BEA00"
+    },
+    {
+      "class": "group",
+      "id": "37FD5B2E-4BC0-4892-8A0F-97210AE1F5D9"
+    },
+    {
+      "class": "group",
+      "id": "6BEB4A01-C7F8-4BFA-8369-BA1C1E73B569"
+    },
+    {
+      "class": "group",
+      "id": "8B2BCB5A-E002-412D-90CA-B3C60A5B0D48"
+    },
+    {
+      "class": "group",
+      "id": "EDFE2E49-CD71-47F8-83F4-9949EBB1D9D6"
+    },
+    {
+      "class": "text",
+      "id": "A3557C6D-B273-421D-A028-756BB3AF8F43"
+    },
+    {
+      "class": "text",
+      "id": "A7DDBCF1-1E01-474D-9CB7-C66ACB00FF62"
+    },
+    {
+      "class": "text",
+      "id": "5B515764-3174-404D-812A-DF355E1AC1C2"
+    },
+    {
+      "class": "text",
+      "id": "31F13964-5DC1-45AD-9D0C-824D9F9CEFCB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C21637E7-C20C-42BF-B698-CE96917D6F6C"
+    },
+    {
+      "class": "text",
+      "id": "E31F3159-3188-4153-BC45-ACE1C8361DA7"
+    }
+  ],
+  "name": "Sidebar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CE26AA58-1705-4D47-A989-B586FD4719C9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

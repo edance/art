@@ -1,0 +1,62 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "do_objectID": "9CB98064-B03E-4A0C-8F85-12DD3C632067",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "97496011-983A-4DCB-A4E3-B61DA0D18429",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F95D3F08-7D90-4270-84E3-3A74659EAA10",
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -356,
+    "do_objectID": "1E91939C-B2AA-4530-BE8E-D6704A4C3990",
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+  ],
+  "name": "About Us",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EE28C3E4-C4A5-416B-BA29-5B656221E664",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -255,
+    "do_objectID": "A73578AB-1DE5-46C2-B407-6CFB09DD3954",
+    "guides": [
+    ]
+  }
+}

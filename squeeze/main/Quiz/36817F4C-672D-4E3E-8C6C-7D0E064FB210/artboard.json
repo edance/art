@@ -1,0 +1,101 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "B6AC1939-7EA3-43E3-AD40-E3374DC6B29E",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "36817F4C-672D-4E3E-8C6C-7D0E064FB210",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F8978B04-A302-4397-B8E2-C41C02A13F12",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F9EF41F4-524F-413A-AF0F-C2F871CEB4F0",
+    "height": 667,
+    "width": 375,
+    "x": -187,
+    "y": 1225
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "800BC09E-1C94-4D92-B37D-47D9C3ED4D49",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "32AAB3BD-6153-4122-886B-10ECE46E5BC3"
+    },
+    {
+      "class": "group",
+      "id": "C8627AB3-6086-4B0A-B776-527FA3815FFB"
+    },
+    {
+      "class": "group",
+      "id": "A9B71803-8FD0-4F5D-938E-36787E373C50"
+    },
+    {
+      "class": "text",
+      "id": "94E061EA-1D3B-4F49-83FD-E20DE6462CAE"
+    },
+    {
+      "class": "text",
+      "id": "05EE9DFB-83B1-4128-93F3-1633C64FD7E0"
+    }
+  ],
+  "name": "Plan Weeks",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 667,
+    "name": "iPhone 6/7/8",
+    "offersLandscapeVariant": 0,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A8294887-7207-4DF9-894A-7A50A148729A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EB2CD112-CC7D-4276-8A7C-6E6033528BDF",
+    "guides": [
+    ]
+  }
+}

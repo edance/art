@@ -1,0 +1,62 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "do_objectID": "479500BB-EF0C-41E5-BF47-6110B30ED6A7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "55C7D215-FA9C-450F-B0DF-F136912E052B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0ACF9C70-ECAD-4C53-AC09-8190EDFB0CF6",
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -356,
+    "do_objectID": "3662F619-3491-43AD-AA80-FAA1B4A9CBB8",
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+  ],
+  "name": "Pricing",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "667247CF-8F17-4AEA-AEE1-4D767D88F464",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -255,
+    "do_objectID": "55B1D665-5F34-455A-8F60-0478222CE5BE",
+    "guides": [
+    ]
+  }
+}

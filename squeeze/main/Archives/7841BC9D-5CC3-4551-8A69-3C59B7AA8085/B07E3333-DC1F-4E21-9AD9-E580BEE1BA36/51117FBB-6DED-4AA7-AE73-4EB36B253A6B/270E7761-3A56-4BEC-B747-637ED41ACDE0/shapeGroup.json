@@ -1,0 +1,92 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "270E7761-3A56-4BEC-B747-637ED41ACDE0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E9C31F12-5CA7-469A-B8E9-B847D54D4015",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A4966DBE-A58C-40E5-97B8-106723DBD354",
+    "height": 16,
+    "width": 72,
+    "x": 130,
+    "y": 17
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "C2A6663B-07BB-44DC-B625-781D5F2ED5B0"
+    },
+    {
+      "class": "shapePath",
+      "id": "9E8C6A90-DCA9-4294-B4B4-E30AF9DC2A37"
+    },
+    {
+      "class": "shapePath",
+      "id": "D182E589-01B9-4389-A1C5-FD88C1FCC113"
+    },
+    {
+      "class": "shapePath",
+      "id": "4F6A495F-48D2-45F5-B09F-85D1721037E4"
+    },
+    {
+      "class": "shapePath",
+      "id": "32BBBD7F-54F8-4407-A97E-C08A00B6B123"
+    },
+    {
+      "class": "shapePath",
+      "id": "D2D0540B-5BF8-427A-9EE7-C29437FA9285"
+    }
+  ],
+  "name": "Strava-logo-Copy-6",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6067758D-FC47-42C4-A189-6E04B0E702D2",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

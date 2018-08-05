@@ -1,0 +1,89 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "do_objectID": "18F51190-3C40-4BED-A8C5-4F291217B4D8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -326,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "DF4324DC-91B4-4547-917A-9AB74DA25104"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7D37AB96-2526-4DAE-8733-68AE1E2B7174"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "AF7BFCF0-960F-44AC-AFD1-2E5043385F55"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C91ABD4F-4087-4FE9-8F69-0DDED58C1F63"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "F004E8B5-747E-4770-8A36-B7A132FA7846"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "53679619-8CB0-433E-8E94-BAB1DF10FB3B"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "367FCE6B-D90A-4984-8FDC-03C8A3D92A2E"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9BA93686-F4F9-46EE-B2D9-833D72D30749"
+    }
+  ],
+  "name": "Symbols",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -255,
+    "guides": [
+    ]
+  }
+}

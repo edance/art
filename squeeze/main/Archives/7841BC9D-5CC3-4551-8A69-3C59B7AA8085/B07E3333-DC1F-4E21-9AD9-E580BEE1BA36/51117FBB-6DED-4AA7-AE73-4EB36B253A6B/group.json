@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "51117FBB-6DED-4AA7-AE73-4EB36B253A6B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BF2EC91B-DAEC-454E-844A-79BE3B898969",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B8D76133-50D5-4177-8B6E-F968C8803877",
+    "height": 48,
+    "width": 223,
+    "x": 169,
+    "y": 212
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "13F16888-AE4F-4EDE-B2D4-3F424C9E39F0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "811F067D-E3F6-4109-8222-110355D9CCB4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "270E7761-3A56-4BEC-B747-637ED41ACDE0"
+    }
+  ],
+  "name": "btn_strava_connectwith_orange",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D28A8723-246B-4FE8-98BD-8A2F361E7A40",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

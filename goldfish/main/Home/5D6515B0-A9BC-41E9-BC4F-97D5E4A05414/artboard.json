@@ -1,0 +1,136 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "5D6515B0-A9BC-41E9-BC4F-97D5E4A05414",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1024,
+    "width": 320,
+    "x": 2523,
+    "y": -332
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "EBDDE9A5-425E-4192-8553-9F8667F36A0E"
+    },
+    {
+      "class": "text",
+      "id": "A26AC958-E9C8-429E-ABEF-2695760C68CB"
+    },
+    {
+      "class": "text",
+      "id": "9A2737CB-E33B-40D2-A2E7-6CDF5AA2D060"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "066F8910-771F-46F4-A326-057E3B1BD082"
+    },
+    {
+      "class": "text",
+      "id": "4C3DA673-7D9F-4ACA-B48D-BFDBA33AA2D7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F434A4D0-A7BF-4B01-AF03-61DC15B533BC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "21B1A3B3-19C0-4F65-BB95-AE8C38232011"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DB2E8E91-2F17-457B-8910-B82E4F457BC4"
+    },
+    {
+      "class": "text",
+      "id": "48C1D677-6A98-4761-8881-E785A157FB9D"
+    },
+    {
+      "class": "text",
+      "id": "AAB6F052-A9EB-40E8-B1DD-A687E060C019"
+    },
+    {
+      "class": "text",
+      "id": "67DE0CA3-1469-4275-BB2F-1FD55F9A2497"
+    },
+    {
+      "class": "text",
+      "id": "E55D2E07-7A77-49F0-AB5C-5DB7B7FD2331"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7BCC12BE-872D-4F7B-A44C-FE5654F307B7"
+    },
+    {
+      "class": "text",
+      "id": "1038F513-8F84-49D0-BF75-9005BAF108B0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C7F56444-7EB5-4EF9-8989-580FC581195E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "475E79E0-1F3A-4394-A57F-3BE0C5C974DE"
+    },
+    {
+      "class": "text",
+      "id": "5DF7B3FD-F02D-4412-A507-99D3BD7E8466"
+    },
+    {
+      "class": "text",
+      "id": "0B209132-0976-4C22-8A32-E034EFC02A11"
+    }
+  ],
+  "name": "Home Mobile",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3450980392156862,
+        "green": 0.8431372549019608,
+        "red": 0.9137254901960784
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3215686274509804,
+        "green": 0.5215686274509805,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4509803921568628,
+        "green": 0.4509803921568628,
+        "red": 0.1607843137254902
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2823529411764706,
+        "green": 0.2823529411764706,
+        "red": 0.2823529411764706
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4274509803921568,
+        "green": 0.4274509803921568,
+        "red": 0.4274509803921568
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9019607843137255,
+        "green": 0.9019607843137255,
+        "red": 0.9019607843137255
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      }
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "A034F562-8E4C-453A-A1C6-0425CE203D5D",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "51.1",
+    "build": 57501,
+    "commit": "e5cf8fcadc29a655fd4ba2db99d732034a0d0445",
+    "version": 105
+  },
+  "pages": [
+    "Symbols",
+    "Theme",
+    "Quiz",
+    "Home Page",
+    "Dashboard",
+    "Pricing",
+    "Contact Us",
+    "About Us",
+    "Dashboard - Calendar",
+    "Dashboard - Create Goal",
+    "Font Examples",
+    "Repo Banners",
+    "Archives"
+  ]
+}
