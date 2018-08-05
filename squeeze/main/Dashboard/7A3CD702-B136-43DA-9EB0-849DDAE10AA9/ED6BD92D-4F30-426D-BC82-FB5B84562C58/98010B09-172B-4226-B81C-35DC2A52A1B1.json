@@ -25,11 +25,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 10,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "2.51 miles"
+    "string": "Yesterday"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 17,
-    "width": 57,
+    "width": 55,
     "x": 45,
     "y": 65
   },
-  "glyphBounds": "{{0, 3}, {57, 11}}",
+  "glyphBounds": "{{0, 3}, {55, 13}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -60,7 +60,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "2.51 miles",
+  "name": "Yesterday",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

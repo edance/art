@@ -25,11 +25,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 10,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "2.51 miles"
+    "string": "Today"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "constrainProportions": false,
     "do_objectID": "1163673D-EAC4-4EE6-A604-481D066D3565",
     "height": 17,
-    "width": 57,
+    "width": 34,
     "x": 45,
     "y": 65
   },
-  "glyphBounds": "{{0, 3}, {57, 11}}",
+  "glyphBounds": "{{0, 3}, {34, 13}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "2.51 miles",
+  "name": "Today",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
