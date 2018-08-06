@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "372122E3-5637-49FF-A559-DF8B44C0C84C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "40DFDB5E-4A25-40D9-B32A-AD48A9F6379C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F3CEECD0-6526-4BB9-AF49-8B1A1B8E3AD3",
+    "height": 401,
+    "width": 2750,
+    "x": -1187,
+    "y": 268
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Waves Orange",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7BE6685F-9CAA-4A2C-8D5F-4BA0C8809BB7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E80BB6CB-833D-49ED-A2DC-7E93F4940175",
+  "verticalSpacing": 0
+}

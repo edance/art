@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "04D6FE24-E662-4741-99B8-E78D8D2CFF47",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1A668D25-9E04-4305-AA0D-BF4F8D50C1AD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "226B570F-0E91-4BE2-8269-FE9A66EB3461",
+    "height": 85,
+    "width": 338,
+    "x": 20,
+    "y": 516
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/e71f696318ebb6ffae6d6437620bcba3527e3618.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 144,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn_strava_connectwith_light@2x",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F8E7DDD9-B983-4672-A8FD-55BDD01452D6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

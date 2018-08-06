@@ -1,0 +1,117 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "39E5277F-DEA7-4E0E-BD77-AFF1DC7A4FFD",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "C20C97AA-297A-461C-A084-64545892778B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "571D9EB8-2C16-468B-97C6-76FE273EA976",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0CC287C0-0D93-41B5-865A-0ABC2C552E7A",
+    "height": 667,
+    "width": 375,
+    "x": 764,
+    "y": 160
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0D556BD0-D02A-4D43-A3B9-990FDCA5EE9B",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "3FC3D920-F158-4B1D-B961-52A5CC0FBEF8"
+    },
+    {
+      "class": "bitmap",
+      "id": "2DE68B31-3629-4FBD-A2B8-7B3D357BE6D0"
+    },
+    {
+      "class": "group",
+      "id": "982263E8-2A44-49EB-AE6D-27B44F4E16EE"
+    },
+    {
+      "class": "group",
+      "id": "11727908-763C-4AE7-85DE-4A99E40BBB2B"
+    },
+    {
+      "class": "group",
+      "id": "B4842DBC-70C0-406B-981C-3E95AF4E243B"
+    },
+    {
+      "class": "group",
+      "id": "B717497C-C1EB-45B7-99CB-3BA6F3F40C0F"
+    },
+    {
+      "class": "text",
+      "id": "0FD54861-442C-47F9-BE20-A89C4C9BE61D"
+    },
+    {
+      "class": "text",
+      "id": "85DDEE04-7853-4684-A765-1808C55EA0A9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BA66764A-8637-42E5-B722-AD676186C7C4"
+    }
+  ],
+  "name": "Goal Time",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 667,
+    "name": "iPhone 6/7/8",
+    "offersLandscapeVariant": 0,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "32FD77E0-F7A9-4B0A-85A6-79B3F08A43F5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "ED8045D1-7DC3-45F2-AB30-B6C7BA287E57",
+    "guides": [
+    ]
+  }
+}

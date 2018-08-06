@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "0A583C17-3DFA-4A05-8F5D-D0EDB5639C4E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A9962A24-CC82-4523-994E-0DB9E2013875",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "899BA045-5638-42C7-913A-BD2891C5002F",
+    "height": 43,
+    "width": 328,
+    "x": 23,
+    "y": 553
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Orange Next Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E90ED805-DF1B-4943-9CBE-5243FDAD3638",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DE4F6DD6-E3FE-4A05-B4C1-A709DC632A7F",
+  "verticalSpacing": 0
+}

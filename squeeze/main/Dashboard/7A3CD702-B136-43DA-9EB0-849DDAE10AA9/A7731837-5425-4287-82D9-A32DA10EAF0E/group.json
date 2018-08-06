@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "A7731837-5425-4287-82D9-A32DA10EAF0E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1317,
+    "width": 2750,
+    "x": -1139,
+    "y": -96
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "C84B436E-D6A0-46AD-AD87-C74AD9F8E6B0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FCE66D19-FA5E-4A5E-A8C2-2B206D53CBD1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0C269210-4699-4B74-96DC-E4F2C7596304"
+    }
+  ],
+  "name": "Waves",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
