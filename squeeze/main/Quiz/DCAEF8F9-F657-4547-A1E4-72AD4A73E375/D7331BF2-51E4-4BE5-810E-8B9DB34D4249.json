@@ -9,33 +9,34 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.6862745098039216,
-            "green": 0.6745098039215687,
-            "red": 0.6705882352941176
+            "blue": 0.1411764705882353,
+            "green": 0.1294117647058824,
+            "red": 0.1176470588235294
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "LucidaGrande",
-              "size": 20
+              "name": "OpenSans-Regular",
+              "size": 24
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle"
           }
         },
-        "length": 8,
+        "length": 22,
         "location": 0
       }
     ],
-    "string": "Marathon"
+    "string": "I am training to run a"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "A2F0766E-9A31-4E60-851C-217037821D74",
+  "do_objectID": "D7331BF2-51E4-4BE5-810E-8B9DB34D4249",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "A85A3046-2390-43D5-B0A9-4C443622556F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -46,12 +47,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 23,
-    "width": 93,
-    "x": 13,
-    "y": 10
+    "do_objectID": "376C6B85-D064-46E9-9693-EDE4ECBDE27D",
+    "height": 33,
+    "width": 245,
+    "x": 29,
+    "y": 131
   },
-  "glyphBounds": "{{1, 3}, {90, 17}}",
+  "glyphBounds": "{{2, 8}, {232, 24}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -59,32 +61,34 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Marathon",
+  "name": "I am training to run",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "A39D9639-4EDF-4C23-97F7-7793B44F03CB",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "A520B0CE-BCB3-438A-92D4-53A945C8278A",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6862745098039216,
-          "green": 0.6745098039215687,
-          "red": 0.6705882352941176
+          "blue": 0.1411764705882353,
+          "green": 0.1294117647058824,
+          "red": 0.1176470588235294
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "LucidaGrande",
-            "size": 20
+            "name": "OpenSans-Regular",
+            "size": 24
           }
         },
         "paragraphStyle": {
@@ -95,5 +99,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

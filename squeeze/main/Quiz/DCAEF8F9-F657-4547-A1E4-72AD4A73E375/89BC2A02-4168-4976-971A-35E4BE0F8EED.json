@@ -1,10 +1,10 @@
 {
-  "_class": "bitmap",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "093654F5-ACA6-452C-9669-712735D750C4",
+  "do_objectID": "89BC2A02-4168-4976-971A-35E4BE0F8EED",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "3C6AE81A-C0FE-4EA0-9A08-6E1D1C693006",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -12,38 +12,39 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 1317,
-    "width": 1939,
-    "x": -330,
-    "y": -161
+    "constrainProportions": false,
+    "do_objectID": "FB3CA176-EDF8-44E0-AE2E-70EF3064B014",
+    "height": 401,
+    "width": 2750,
+    "x": -1323,
+    "y": 274
   },
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/68e1f5435a0b2329575113103ec3630f3d462bb0.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 72,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": false,
+  "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Bitmap",
+  "name": "Waves",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "F236AC74-8A4E-4D7B-94B4-70907D8B2034",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "C676F636-3C5F-4D4D-A975-15C721BF15AA",
+  "verticalSpacing": 0
 }

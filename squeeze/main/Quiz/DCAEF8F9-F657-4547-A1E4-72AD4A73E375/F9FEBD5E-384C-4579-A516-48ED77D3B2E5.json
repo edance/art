@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "simple-line-icons",
-              "size": 20
+              "size": 24
             }
           }
         },
@@ -25,14 +25,15 @@
         "location": 0
       }
     ],
-    "string": ""
+    "string": ""
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "880EFF51-71D7-4DF6-978C-9FD3D58F8BC2",
+  "do_objectID": "F9FEBD5E-384C-4579-A516-48ED77D3B2E5",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "157B6BE6-7082-4F36-B595-B415DCB84A59",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -43,12 +44,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
-    "width": 20,
-    "x": 295,
-    "y": 13
+    "do_objectID": "6A782266-2BCE-4956-9607-3001335D9665",
+    "height": 25,
+    "width": 24,
+    "x": 321,
+    "y": 46
   },
-  "glyphBounds": "{{0, 5}, {20, 11}}",
+  "glyphBounds": "{{0, 3}, {24, 19}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -56,7 +58,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Arrow-down - simple-line-icons",
+  "name": "Menu - simple-line-icons",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -64,11 +66,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "7BA6D31C-4AE7-4856-8FC6-59F933743456",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "74F4C9D2-1819-478A-B74D-FA4B43850ECB",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -81,7 +85,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "simple-line-icons",
-            "size": 20
+            "size": 24
           }
         }
       },

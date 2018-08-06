@@ -83,12 +83,12 @@
       "id": "FE10104F-7BD9-43BC-8974-0E4956BEF4CA"
     },
     {
-      "class": "artboard",
-      "id": "9E8B10C4-62C2-4838-AF40-D3FCCAB6D37A"
-    },
-    {
       "class": "text",
       "id": "5F2BF919-E786-4366-885E-93C4A2DA616C"
+    },
+    {
+      "class": "artboard",
+      "id": "DCAEF8F9-F657-4547-A1E4-72AD4A73E375"
     }
   ],
   "name": "Quiz",

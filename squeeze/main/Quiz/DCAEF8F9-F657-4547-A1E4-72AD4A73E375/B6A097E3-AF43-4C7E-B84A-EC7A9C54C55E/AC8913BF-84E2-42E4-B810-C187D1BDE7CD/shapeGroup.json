@@ -2,9 +2,10 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FCC2943C-1AF4-46D5-8991-A003B9E4E761",
+  "do_objectID": "AC8913BF-84E2-42E4-B810-C187D1BDE7CD",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "913FC491-F69D-478B-B65B-7BA7F5701FC4",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,6 +16,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "8BAFD0B9-ECBE-4615-886E-97ACAF845243",
     "height": 43,
     "width": 328,
     "x": 0,
@@ -31,10 +33,10 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "0AE659E7-C1E6-4024-BE41-ED0408EF22F5"
+      "id": "63A75767-D590-44E9-80FB-BA5E26EB4894"
     }
   ],
-  "name": "Rectangle",
+  "name": "Rectangle 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -58,6 +60,7 @@
         "thickness": 1
       }
     ],
+    "do_objectID": "861DA928-F7B8-4FD4-BD0B-A32E17834FBB",
     "endMarkerType": 0,
     "fills": [
       {
@@ -65,42 +68,11 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 0.9764705882352941,
+          "green": 0.9764705882352941,
+          "red": 0.9764705882352941
         },
-        "fillType": 1,
-        "gradient": {
-          "_class": "gradient",
-          "elipseLength": 0,
-          "from": "{1, 0.5}",
-          "gradientType": 0,
-          "stops": [
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 1,
-                "green": 0.6627450980392158,
-                "red": 0.4313725490196079
-              },
-              "position": 0
-            },
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 1,
-                "green": 0.4705882352941176,
-                "red": 0.5686274509803921
-              },
-              "position": 1
-            }
-          ],
-          "to": "{0, 0.5}"
-        },
+        "fillType": 0,
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
