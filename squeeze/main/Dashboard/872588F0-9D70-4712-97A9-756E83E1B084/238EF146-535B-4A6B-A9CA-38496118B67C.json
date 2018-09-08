@@ -1,7 +1,7 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "A7731837-5425-4287-82D9-A32DA10EAF0E",
+  "do_objectID": "238EF146-535B-4A6B-A9CA-38496118B67C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,37 +14,26 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1317,
-    "width": 2750,
-    "x": -1139,
-    "y": -96
+    "height": 43,
+    "width": 328,
+    "x": 25,
+    "y": 390
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "bitmap",
-      "id": "C84B436E-D6A0-46AD-AD87-C74AD9F8E6B0"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "FCE66D19-FA5E-4A5E-A8C2-2B206D53CBD1"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "0C269210-4699-4B74-96DC-E4F2C7596304"
-    }
-  ],
-  "name": "Waves",
+  "name": "Orange Button",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -52,5 +41,7 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "871E2B23-30D5-485E-9406-B8DA60C84008",
+  "verticalSpacing": 0
 }

@@ -2,9 +2,10 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FCE66D19-FA5E-4A5E-A8C2-2B206D53CBD1",
+  "do_objectID": "BBC39230-1F24-4720-8988-AEA494863E44",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "76B9CBAF-ADC0-45D7-9D12-070150C0726E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 350.045124731999,
-    "width": 2750,
-    "x": 2.842170943040401e-14,
-    "y": 197.954875268001
+    "do_objectID": "E3E459C6-6AAF-4F72-ADA1-3B863BD7292B",
+    "height": 108,
+    "width": 377,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,14 +29,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "16AB7A3D-3914-45F8-AC7E-D5324829B830"
+      "class": "rectangle",
+      "id": "AA06616F-533C-4A04-BF8D-98C8163938CA"
     }
   ],
-  "name": "Path 4",
+  "name": "Rectangle 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -54,20 +56,21 @@
         },
         "fillType": 0,
         "isEnabled": false,
-        "position": 0,
+        "position": 1,
         "thickness": 1
       }
     ],
+    "do_objectID": "895C020C-5701-4FA8-BE31-DFE8AEFD7E48",
     "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.06651947463768115,
-          "blue": 0.886238694190979,
-          "green": 0.5645518898963927,
-          "red": 0.288655698299408
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,
