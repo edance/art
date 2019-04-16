@@ -1,0 +1,125 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E05D8501-B342-42B2-B64A-7A08D7AD7194",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 900,
+    "width": 1440,
+    "x": 2667,
+    "y": 836
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FDBD7BE0-B6D4-45EA-845A-7847D199ABDF"
+    },
+    {
+      "class": "rectangle",
+      "id": "98DDFF50-7279-4FFA-8CCD-42E3C638A859"
+    },
+    {
+      "class": "rectangle",
+      "id": "C10433BB-572D-4329-BCD2-AF5AF7DE5027"
+    },
+    {
+      "class": "group",
+      "id": "4D28DEB7-AC4E-448B-91E3-36E99094E907"
+    },
+    {
+      "class": "group",
+      "id": "F1B75DD7-E305-4F96-96EE-229ECF7DFF94"
+    },
+    {
+      "class": "group",
+      "id": "EFD4EDD2-38A3-473E-9E42-0C1AF1983F17"
+    },
+    {
+      "class": "group",
+      "id": "CCD81983-5475-4CB2-9162-BC89668BD2AC"
+    },
+    {
+      "class": "text",
+      "id": "942B0459-E5C1-4533-9720-F6433E6C5FFB"
+    },
+    {
+      "class": "group",
+      "id": "2792E259-DFC0-4B2B-AF26-13F511E3DE88"
+    },
+    {
+      "class": "bitmap",
+      "id": "409B4569-0AC2-4D13-B3D4-12D2C27C4B3E"
+    },
+    {
+      "class": "group",
+      "id": "ABB253F8-284A-4688-8DBC-AC5EF8B85611"
+    },
+    {
+      "class": "bitmap",
+      "id": "0F0D62F1-B074-4D0C-A16C-1492B2052EF0"
+    }
+  ],
+  "name": "Large Desktop",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 900,
+    "name": "Large Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
