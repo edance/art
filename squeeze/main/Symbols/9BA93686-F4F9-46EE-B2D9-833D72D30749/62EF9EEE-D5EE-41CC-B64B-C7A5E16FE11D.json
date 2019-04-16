@@ -29,6 +29,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "62EF9EEE-D5EE-41CC-B64B-C7A5E16FE11D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -49,6 +50,7 @@
     "y": 371
   },
   "glyphBounds": "{{0, 1}, {24, 23}}",
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,

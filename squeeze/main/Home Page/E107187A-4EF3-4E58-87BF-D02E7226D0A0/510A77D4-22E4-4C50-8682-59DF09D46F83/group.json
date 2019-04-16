@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "510A77D4-22E4-4C50-8682-59DF09D46F83",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 193,
+    "width": 1109,
+    "x": 137,
+    "y": 1276
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B82696DB-C8B7-4E9C-B013-F310A3927113"
+    },
+    {
+      "class": "text",
+      "id": "3D8C248F-F234-4513-BDD9-175AECEABE36"
+    },
+    {
+      "class": "text",
+      "id": "FA8238DD-B5B9-469E-AE7F-853B789D11BF"
+    },
+    {
+      "class": "group",
+      "id": "CFB25CD2-5E85-42BC-BAD6-0E6624F1D7E5"
+    }
+  ],
+  "name": "Mid Section",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

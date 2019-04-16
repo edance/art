@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DFC5C24B-EF12-4BAF-A6EE-20F9515735ED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A631F3A6-157A-47A8-AAC0-EC10DC05DF26",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "736E026D-5607-4329-A8C1-B66E3CC025C8",
+    "height": 57,
+    "width": 326,
+    "x": 131,
+    "y": 215
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1B67D1FA-F032-4CDB-A678-AF022533F9EC"
+    },
+    {
+      "class": "text",
+      "id": "C87D0AC7-B305-4257-81B4-2E311539BFE0"
+    }
+  ],
+  "name": "Get Started Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "609216C8-4E10-4190-9A95-79130BC4E91F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

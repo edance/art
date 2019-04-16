@@ -8,6 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "5C9206EC-F14E-48C1-AAE9-209597076D5A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -28,6 +29,7 @@
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -47,6 +49,34 @@
     {
       "class": "group",
       "id": "0FB7656B-BBFD-4BFA-BF3B-411C92C394DA"
+    },
+    {
+      "class": "rectangle",
+      "id": "5BA36EBB-0351-44D2-A470-DBCB3AF85C82"
+    },
+    {
+      "class": "rectangle",
+      "id": "FC82E371-5068-4174-8DF9-FCE4006BDB45"
+    },
+    {
+      "class": "rectangle",
+      "id": "F2CB8E05-5562-48B5-AF39-0AEBDE7D03E9"
+    },
+    {
+      "class": "rectangle",
+      "id": "6C867D75-81E5-4C39-8B37-9A87F1790750"
+    },
+    {
+      "class": "rectangle",
+      "id": "5A7DCF80-3FEB-457C-88C8-8055D0E8CABD"
+    },
+    {
+      "class": "rectangle",
+      "id": "4813406B-3051-4772-9342-E05E82F6D4F8"
+    },
+    {
+      "class": "rectangle",
+      "id": "4AB9D750-63C1-4086-AC04-469B3DC0DE5A"
     }
   ],
   "name": "Desktop HD",

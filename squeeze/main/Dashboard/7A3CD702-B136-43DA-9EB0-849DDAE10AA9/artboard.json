@@ -8,6 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "7A3CD702-B136-43DA-9EB0-849DDAE10AA9",
   "exportOptions": {
     "_class": "exportOptions",
@@ -28,6 +29,7 @@
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,6 +46,10 @@
   "isVisible": true,
   "layerListExpandedType": 1,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "AC0276BD-7B56-4D56-8B1B-638D78D4DD5E"
+    },
     {
       "class": "bitmap",
       "id": "96240C8A-1C4E-46CE-96E3-AFB5A462C26F"
@@ -62,10 +68,6 @@
     },
     {
       "class": "group",
-      "id": "A7731837-5425-4287-82D9-A32DA10EAF0E"
-    },
-    {
-      "class": "group",
       "id": "EE7FB516-4ACB-42A6-9179-C0CAA764B110"
     },
     {
@@ -81,8 +83,8 @@
       "id": "D46F48C5-B9BD-47AD-8A7A-7795D3EBC5A8"
     }
   ],
-  "name": "iPhone 6/7/8",
-  "nameIsFixed": false,
+  "name": "Dashboard Home",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 667,

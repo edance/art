@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8983C18A-4B36-4F45-AF3B-552FA0DF6CA4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 337,
+    "width": 1440,
+    "x": 0,
+    "y": 3832
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4DC58BD4-1898-46DB-8093-C48BF16DA459"
+    },
+    {
+      "class": "text",
+      "id": "897C91BA-EA9B-42F5-9D68-5F9CE1C7D5E7"
+    },
+    {
+      "class": "group",
+      "id": "DFC5C24B-EF12-4BAF-A6EE-20F9515735ED"
+    },
+    {
+      "class": "text",
+      "id": "4B130EC5-3460-4C66-B38B-F8263AAF8B06"
+    }
+  ],
+  "name": "Final Sell",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -8,6 +8,7 @@
     "red": 0.984313725490196
   },
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "185C50FC-FCEF-4741-B418-3967B97487F3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,6 +31,7 @@
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,

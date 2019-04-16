@@ -1,6 +1,7 @@
 {
   "_class": "page",
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "18F51190-3C40-4BED-A8C5-4F291217B4D8",
   "exportOptions": {
     "_class": "exportOptions",
@@ -20,6 +21,7 @@
     "y": 0
   },
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": -326,
@@ -72,11 +74,19 @@
     },
     {
       "class": "symbolMaster",
+      "id": "B899FF40-3155-4398-A1D7-DAB89B005848"
+    },
+    {
+      "class": "symbolMaster",
       "id": "7A187BB9-2C2E-4603-B9EA-ADE61AC6C5B5"
     },
     {
       "class": "symbolMaster",
       "id": "6814F1E0-4778-4EF1-AE1E-CB1DFF0D9DA1"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "3FC46666-B2E2-42E6-8069-7310D4C3C02D"
     }
   ],
   "name": "Symbols",
