@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 24,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "6% faster than last time"
+    "string": "3 day streak"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "A0B83582-4AA2-4977-9039-1AE1275B9077",
     "height": 19,
-    "width": 155,
-    "x": 22,
-    "y": 82
+    "width": 79,
+    "x": 39,
+    "y": 81
   },
-  "glyphBounds": "{{0, 4}, {154, 12}}",
+  "glyphBounds": "{{0, 4}, {79, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "6% faster than last",
+  "name": "3 day streak",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

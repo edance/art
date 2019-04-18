@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 24,
+        "length": 22,
         "location": 0
       }
     ],
-    "string": "6% faster than last time"
+    "string": "Race in 33 wks, 4 days"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "4B6B00C7-3A74-4D36-B910-29E614F23A9A",
     "height": 19,
-    "width": 155,
-    "x": 19,
+    "width": 144,
+    "x": 18,
     "y": 81
   },
-  "glyphBounds": "{{0, 4}, {154, 12}}",
+  "glyphBounds": "{{1, 4}, {143, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "6% faster than last",
+  "name": "Race in 33 wks, 4 da",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

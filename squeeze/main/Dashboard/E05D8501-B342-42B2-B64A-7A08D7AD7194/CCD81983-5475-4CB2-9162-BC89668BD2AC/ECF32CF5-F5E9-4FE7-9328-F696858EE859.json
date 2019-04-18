@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "3:00:00"
+    "string": "Dec 8th"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "ADE0EAE0-4B88-476A-AEF5-8B9AEDEE10E2",
     "height": 33,
-    "width": 82,
-    "x": 19,
+    "width": 88,
+    "x": 18,
     "y": 40
   },
-  "glyphBounds": "{{1, 8}, {80, 19}}",
+  "glyphBounds": "{{2, 7}, {85, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "3:00:00",
+  "name": "Dec 8th",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

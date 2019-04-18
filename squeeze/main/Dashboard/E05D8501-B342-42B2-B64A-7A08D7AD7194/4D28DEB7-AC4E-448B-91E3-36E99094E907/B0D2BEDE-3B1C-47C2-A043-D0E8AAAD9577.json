@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 24,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "6% faster than last time"
+    "string": "6% faster than PR"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 19,
-    "width": 155,
-    "x": 18,
+    "width": 116,
+    "x": 34.5,
     "y": 80
   },
-  "glyphBounds": "{{0, 4}, {154, 12}}",
+  "glyphBounds": "{{0, 4}, {115, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "6% faster than last",
+  "name": "6% faster than PR",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "3:00:00"
+    "string": "6 miles"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,10 +53,10 @@
     "do_objectID": "DE9444F8-B351-4B79-BA3B-DDD5B7C18B99",
     "height": 33,
     "width": 82,
-    "x": 22,
+    "x": 21,
     "y": 41
   },
-  "glyphBounds": "{{1, 8}, {80, 19}}",
+  "glyphBounds": "{{1, 7}, {80, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "3:00:00",
+  "name": "6 miles",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

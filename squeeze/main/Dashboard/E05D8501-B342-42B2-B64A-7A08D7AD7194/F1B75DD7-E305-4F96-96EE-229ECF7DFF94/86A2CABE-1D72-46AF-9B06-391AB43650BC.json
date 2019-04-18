@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 7,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "3:00:00"
+    "string": "44.2 miles"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "78D3DB4A-357E-4C5F-BBF1-80EF7197C7CE",
     "height": 33,
-    "width": 82,
+    "width": 116,
     "x": 19,
     "y": 41
   },
-  "glyphBounds": "{{1, 8}, {80, 19}}",
+  "glyphBounds": "{{0, 7}, {115, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "3:00:00",
+  "name": "44.2 miles",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

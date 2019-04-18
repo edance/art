@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 12,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "Current Goal"
+    "string": "Weekly Distance"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +53,11 @@
     "constrainProportions": false,
     "do_objectID": "36A14EB3-51EF-43C2-A778-7C09B348A027",
     "height": 19,
-    "width": 103,
-    "x": 19,
+    "width": 121,
+    "x": 18,
     "y": 23
   },
-  "glyphBounds": "{{0, 4}, {103, 12}}",
+  "glyphBounds": "{{0, 4}, {120, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Current Goal",
+  "name": "Weekly Distance",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 12,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "Current Goal"
+    "string": "Today's Workout"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +53,11 @@
     "constrainProportions": false,
     "do_objectID": "6A16E9B4-E702-44E1-8B1F-21D2C9693301",
     "height": 19,
-    "width": 103,
-    "x": 22,
+    "width": 129,
+    "x": 20,
     "y": 23
   },
-  "glyphBounds": "{{0, 4}, {103, 12}}",
+  "glyphBounds": "{{0, 4}, {128, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Current Goal",
+  "name": "Today's Workout",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

@@ -48,6 +48,10 @@
     {
       "class": "oval",
       "id": "BF655BC7-E45A-46B6-B989-1B4580AE7504"
+    },
+    {
+      "class": "group",
+      "id": "D14DFE7E-A2EA-4E2F-B231-3840EE397DCD"
     }
   ],
   "name": "Group 5",

@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "22CF79BC-E063-465F-9CA3-1B62ABC3871B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ADED4809-2C11-4D9D-A545-05AFC04934C4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "74C899DA-03E3-4C83-93D6-6D37A43FF326",
+    "height": 19,
+    "width": 19,
+    "x": 15,
+    "y": 80
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FA3F912C-27EC-4322-A7CC-7CB2F15E4266"
+    },
+    {
+      "class": "rectangle",
+      "id": "F2910A2F-4800-428D-9C48-2332B6E6DD97"
+    }
+  ],
+  "name": "ant-design:caret-up-outline",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "702410EA-8D74-4315-94AF-152C3E16F38E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.3125,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "7B98F1B9-D92C-4C9C-B391-6552DCE6B9C3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

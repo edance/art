@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 12,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Current Goal"
+    "string": "Race Date"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +53,11 @@
     "constrainProportions": false,
     "do_objectID": "EBC0A427-C10A-4066-B25B-A410E99BE32C",
     "height": 19,
-    "width": 103,
-    "x": 18,
+    "width": 71,
+    "x": 19,
     "y": 22
   },
-  "glyphBounds": "{{0, 4}, {103, 12}}",
+  "glyphBounds": "{{1, 4}, {69, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Current Goal",
+  "name": "Race Date",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

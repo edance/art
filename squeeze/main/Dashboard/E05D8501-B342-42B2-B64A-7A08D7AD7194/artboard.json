@@ -28,7 +28,7 @@
     "y": 836
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -44,7 +44,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -89,14 +89,10 @@
     {
       "class": "group",
       "id": "ABB253F8-284A-4688-8DBC-AC5EF8B85611"
-    },
-    {
-      "class": "bitmap",
-      "id": "0F0D62F1-B074-4D0C-A16C-1492B2052EF0"
     }
   ],
-  "name": "Large Desktop",
-  "nameIsFixed": false,
+  "name": "Desktop Dashboard",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 900,
