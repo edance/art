@@ -28,7 +28,7 @@
     "y": -362
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -44,7 +44,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -91,8 +91,8 @@
       "id": "8983C18A-4B36-4F45-AF3B-552FA0DF6CA4"
     }
   ],
-  "name": "Large Desktop",
-  "nameIsFixed": false,
+  "name": "Home Page Desktop",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 900,
