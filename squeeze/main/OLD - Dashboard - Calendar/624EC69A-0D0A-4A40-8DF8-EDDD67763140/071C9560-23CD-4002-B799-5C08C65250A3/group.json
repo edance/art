@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "071C9560-23CD-4002-B799-5C08C65250A3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B2F5F781-CBAD-4FD8-86F2-938E15E29938",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "90BF911D-2EEC-4C1E-B5AD-941E4F024A1E",
+    "height": 800,
+    "width": 254,
+    "x": -4,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "47236E73-C5BA-4E1C-8767-E19AEF1E691E"
+    },
+    {
+      "class": "text",
+      "id": "98D87D66-51E1-46CC-95D0-32D3D6CBC43A"
+    },
+    {
+      "class": "group",
+      "id": "2B63D17E-B347-4950-93E2-3688C220A7B8"
+    },
+    {
+      "class": "rectangle",
+      "id": "1DB945FB-2628-44AF-AEB0-2925825D4333"
+    },
+    {
+      "class": "group",
+      "id": "3B4BA31E-1A0D-453D-A4B5-1B1448137C02"
+    },
+    {
+      "class": "group",
+      "id": "AA9B85E6-8605-4C6E-AD96-1640471CF0B9"
+    },
+    {
+      "class": "group",
+      "id": "BA8DAD23-DE0A-4A04-B3B7-FEC875784E83"
+    },
+    {
+      "class": "group",
+      "id": "60A6D3DE-615A-463A-A522-5CB296C0F0B0"
+    },
+    {
+      "class": "text",
+      "id": "9211186F-34A9-414E-9954-8F79E81A2A47"
+    },
+    {
+      "class": "text",
+      "id": "4739B5A1-941D-40DE-BA7B-F88BAF3C2FF2"
+    },
+    {
+      "class": "text",
+      "id": "7731CEC0-732D-46C4-A98A-D5B523C5C7B7"
+    },
+    {
+      "class": "text",
+      "id": "58A7CD71-3E0F-4842-8DB4-CF58F9A27AFB"
+    },
+    {
+      "class": "rectangle",
+      "id": "08743F8A-357D-40C5-B4DF-D3C95BA9900D"
+    },
+    {
+      "class": "text",
+      "id": "F15E14DA-5884-4197-BBE5-86BA704C9E57"
+    }
+  ],
+  "name": "Sidebar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "452447F5-88B3-4F1B-82C0-BA854B9EDDEA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

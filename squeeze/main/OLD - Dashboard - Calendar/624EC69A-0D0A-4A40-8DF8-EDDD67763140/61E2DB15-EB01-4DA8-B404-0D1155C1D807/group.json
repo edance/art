@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "61E2DB15-EB01-4DA8-B404-0D1155C1D807",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C1B15C6A-60AA-4208-A05B-94A3E9DD11AA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DA69DC02-71E4-4E03-928E-2082556A3F25",
+    "height": 21,
+    "width": 50,
+    "x": 400,
+    "y": 28
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "75DC99CA-F2A8-445C-98D7-3B90ECC5ABCD"
+    },
+    {
+      "class": "text",
+      "id": "6D14F497-3EA9-491B-81CD-9E1B0FF9C807"
+    }
+  ],
+  "name": "Next Buttons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DF07E81F-E714-445D-B036-7ADE2FB0D317",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

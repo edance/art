@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8853A633-CA63-451D-B2F9-CFB29478795F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "201552D9-2121-42F7-95C1-B5B0657DB6C1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "31D30D44-CFF1-4029-B2A9-11C2E6C03C01",
+    "height": 20,
+    "width": 20,
+    "x": 48,
+    "y": 465
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E2D2D99A-5FE2-4C61-A71E-791B809D6D04"
+    },
+    {
+      "class": "rectangle",
+      "id": "B5449863-9BDD-4DDB-8F25-723DA51F4816"
+    }
+  ],
+  "name": "entypo-help-with-circle",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1AB73309-2E06-4DA2-A3BD-EB74594A09DF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

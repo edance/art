@@ -1,0 +1,89 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BD594261-B805-45F0-A213-A853ABE50103",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 17.9375,
+    "width": 21,
+    "x": 0,
+    "y": 0.3125
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "C512D844-5B2D-4205-8156-907F7525B135"
+    },
+    {
+      "class": "shapePath",
+      "id": "A859C1AA-404D-433A-9A82-6001E0907A35"
+    },
+    {
+      "class": "shapePath",
+      "id": "1CFCDE13-7EEE-45F1-855E-2C079E4F063A"
+    },
+    {
+      "class": "shapePath",
+      "id": "A557C7DB-4679-4F60-AB24-CE15481D2475"
+    },
+    {
+      "class": "shapePath",
+      "id": "0A08D4F2-1F59-4A66-BD14-2FF1B37277CF"
+    },
+    {
+      "class": "shapePath",
+      "id": "1D76ABBB-7A4D-4BBD-9036-298FE250C264"
+    }
+  ],
+  "name": "Icon Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9686274509803922,
+          "green": 0.9607843137254902,
+          "red": 0.9568627450980391
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

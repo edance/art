@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4DEADF43-A55F-4B0A-A1A8-95A470E89F9A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6DF461D9-C417-49B5-A819-A49F48796D5C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BEFDF7FA-4B14-4B34-93D3-6B42E2B21956",
+    "height": 711,
+    "width": 1151,
+    "x": 268,
+    "y": 63
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "179522D6-A79C-40B7-A2C5-4268570B08F9"
+    },
+    {
+      "class": "group",
+      "id": "D6E3437A-C478-4B7C-AF3D-ECB9C3821776"
+    }
+  ],
+  "name": "Grid",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DF29D99E-2022-4957-B899-ACB623E983A4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

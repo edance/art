@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E5B308A7-9455-47E7-8D76-F94ECB105366",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1831820F-5B78-49C1-8669-75F5EF3F3376",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4868EFDB-429E-4B1E-AC0D-120671DC3794",
+    "height": 34,
+    "width": 90,
+    "x": 286,
+    "y": 21
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1774CAFB-2B21-4CAE-800C-F469C24DEA56"
+    },
+    {
+      "class": "text",
+      "id": "EC36A700-40CC-461C-901A-1C6CB00FFB38"
+    }
+  ],
+  "name": "TODAY",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D7B061C7-E810-4E1E-A347-82928729043E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
