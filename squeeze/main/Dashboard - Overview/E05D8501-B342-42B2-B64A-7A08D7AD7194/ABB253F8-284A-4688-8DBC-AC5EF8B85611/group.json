@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 646,
+    "height": 900,
     "width": 310,
     "x": 0,
-    "y": 28
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,6 +29,10 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "rectangle",
+      "id": "5AF2441A-22C1-4A29-B5F9-AE336CC210BF"
+    },
     {
       "class": "bitmap",
       "id": "0F0D62F1-B074-4D0C-A16C-1492B2052EF0"

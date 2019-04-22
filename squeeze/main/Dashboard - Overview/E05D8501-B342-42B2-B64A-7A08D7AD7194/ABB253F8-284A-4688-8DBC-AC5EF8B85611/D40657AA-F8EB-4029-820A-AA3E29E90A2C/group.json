@@ -18,7 +18,7 @@
     "height": 20,
     "width": 18,
     "x": 50,
-    "y": 146
+    "y": 174
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
