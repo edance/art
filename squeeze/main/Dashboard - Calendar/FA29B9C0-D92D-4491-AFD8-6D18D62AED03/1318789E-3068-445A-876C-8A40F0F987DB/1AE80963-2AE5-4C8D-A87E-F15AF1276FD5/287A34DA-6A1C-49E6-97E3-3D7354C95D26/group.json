@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "287A34DA-6A1C-49E6-97E3-3D7354C95D26",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E5CF3301-40F5-4156-8968-BA56FA453F42",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "6DDF93A1-4F57-426D-8D9D-7F2AC9184EBC",
+    "height": 21,
+    "width": 21,
+    "x": 5,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EA7A09E4-10D3-4859-B394-EF896382C635"
+    },
+    {
+      "class": "rectangle",
+      "id": "10270039-D932-45D5-9133-BBA3687A5B67"
+    }
+  ],
+  "name": "ic-baseline-directions-bike",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E84550C7-BB13-4AEC-9907-4EF7A73DD05D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

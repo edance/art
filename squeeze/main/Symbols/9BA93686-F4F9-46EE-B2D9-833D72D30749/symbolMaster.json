@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 12869,
+  "changeIdentifier": 12871,
   "clippingMaskMode": 0,
   "do_objectID": "9BA93686-F4F9-46EE-B2D9-833D72D30749",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 1261
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -121,8 +121,8 @@
       "id": "244C9430-20AD-4256-94E8-B05AF36E102C"
     }
   ],
-  "name": "Sidebar",
-  "nameIsFixed": false,
+  "name": "OLD - Sidebar",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

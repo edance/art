@@ -44,7 +44,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -87,8 +87,8 @@
       "id": "409B4569-0AC2-4D13-B3D4-12D2C27C4B3E"
     },
     {
-      "class": "group",
-      "id": "ABB253F8-284A-4688-8DBC-AC5EF8B85611"
+      "class": "symbolInstance",
+      "id": "974B41FC-C82F-49F7-84C6-181C075E6595"
     }
   ],
   "name": "Desktop Dashboard",

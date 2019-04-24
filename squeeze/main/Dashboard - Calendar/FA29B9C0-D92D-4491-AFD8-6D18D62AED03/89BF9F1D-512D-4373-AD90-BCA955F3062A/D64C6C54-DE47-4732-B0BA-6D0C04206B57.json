@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "5"
+    "string": "7"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -56,7 +56,7 @@
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 5}, {8, 11}}",
+  "glyphBounds": "{{0, 5}, {8, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "5",
+  "name": "7",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9A80E2C4-A6FE-4ED9-9638-AD65F488A9F1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "893B3B45-DA61-4190-AF93-9EBF2286DC38",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "330ACB8A-2D23-4327-855C-FE24DC50CB55",
+    "height": 78,
+    "width": 133,
+    "x": 654,
+    "y": 265
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "9F7107AB-203E-48DF-83ED-386341ECF4C2"
+    },
+    {
+      "class": "text",
+      "id": "C4FA5EC8-CF13-461F-BD96-2D62BCACE2CF"
+    },
+    {
+      "class": "group",
+      "id": "175A8EE4-A914-473D-9BEA-9ECC26081E96"
+    }
+  ],
+  "name": "Date Cell",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "67C8B3DC-EE15-480F-A9C6-897192657017",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
