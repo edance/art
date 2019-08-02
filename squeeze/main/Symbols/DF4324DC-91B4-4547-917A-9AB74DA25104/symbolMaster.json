@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 789,
+  "changeIdentifier": 791,
   "clippingMaskMode": 0,
   "do_objectID": "DF4324DC-91B4-4547-917A-9AB74DA25104",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 135
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -53,8 +53,8 @@
       "id": "7A72FB27-7CA6-426E-962C-27EA0E2A7418"
     }
   ],
-  "name": "Logo",
-  "nameIsFixed": false,
+  "name": "Old Logo",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
