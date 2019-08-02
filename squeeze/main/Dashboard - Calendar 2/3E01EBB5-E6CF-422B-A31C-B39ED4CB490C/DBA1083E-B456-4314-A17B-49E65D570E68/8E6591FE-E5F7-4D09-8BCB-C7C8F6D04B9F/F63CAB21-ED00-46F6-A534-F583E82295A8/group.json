@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F63CAB21-ED00-46F6-A534-F583E82295A8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BC83C4FE-77D4-4C5F-94A4-F3ABA00E4282",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "61DFC329-CA72-4156-87B0-9A10FA8E5ACE",
+    "height": 24,
+    "width": 24,
+    "x": 3,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C01B94D3-DCB2-4BB2-8CD4-1501E1F9DC58"
+    },
+    {
+      "class": "rectangle",
+      "id": "1E8A9474-9FB3-434B-8E5D-5E3301E9C5D2"
+    }
+  ],
+  "name": "ic-baseline-rowing",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AD6D9F30-6305-49BC-BCD9-CB80B26E530D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

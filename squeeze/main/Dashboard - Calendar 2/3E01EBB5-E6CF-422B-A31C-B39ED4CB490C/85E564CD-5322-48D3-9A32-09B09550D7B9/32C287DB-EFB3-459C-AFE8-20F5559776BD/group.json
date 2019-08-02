@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "32C287DB-EFB3-459C-AFE8-20F5559776BD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CFCC3DBE-FD0F-4B33-A3C5-A6B7406F57C4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "0DF1AA96-4858-426B-A4A8-097FAA6ED7CC",
+    "height": 24,
+    "width": 24,
+    "x": 46,
+    "y": 416
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C83871B8-55B2-47C6-92D0-F5C7F5995AA7"
+    },
+    {
+      "class": "rectangle",
+      "id": "98394AFF-7E07-485A-B9B0-AA483FFF02F0"
+    }
+  ],
+  "name": "ic-round-account-balance",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F6586D30-6EA5-4F61-B573-6F119DCF004F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

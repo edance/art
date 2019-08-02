@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1ACAA3E5-F5EC-4BAE-BED4-DA317A964B56",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9B106A3C-3F78-47FB-AB71-0A7B46C12B2F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "932723DC-1A03-415F-B154-12F29B6B7C8A",
+    "height": 24,
+    "width": 24,
+    "x": 46,
+    "y": 369
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "026CCB16-1544-48C7-AF7B-ECB8E06B413E"
+    },
+    {
+      "class": "rectangle",
+      "id": "10550126-F864-44B1-953D-B3D9FD664A8A"
+    }
+  ],
+  "name": "ic-baseline-account-circle",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B403D470-BBB4-4E5D-BE89-01FB2BDA319C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

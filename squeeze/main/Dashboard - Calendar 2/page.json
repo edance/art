@@ -1,0 +1,68 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9D38889F-54F3-4455-BA20-052834C92519",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DF6D0CD4-8C22-4B5D-A370-8C14B296759C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D21FDFB1-FE07-4D46-AB81-C2717E831713",
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -356,
+    "do_objectID": "CCCB7BC6-9D78-4FEF-89A5-FD939583AAD0",
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "3E01EBB5-E6CF-422B-A31C-B39ED4CB490C"
+    }
+  ],
+  "name": "Dashboard - Calendar 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9506B15D-0734-4EE6-8206-FC44438C8580",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -255,
+    "do_objectID": "87E94092-753E-4D0C-9024-E7FF9306E4E8",
+    "guides": [
+    ]
+  }
+}

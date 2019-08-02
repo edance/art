@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0281FE95-0159-4780-80A3-6DA7F5C65535",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6CE46F7F-C2ED-494C-A2AA-039D4CBBA686",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "43E27CC7-2880-4DB3-8FB9-2D535FF43C58",
+    "height": 20,
+    "width": 20,
+    "x": 49,
+    "y": 100
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2D187A73-06D4-4059-BBE3-3AAC7E0A684D"
+    }
+  ],
+  "name": "oi-dashboard",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "52522DD0-9ECB-495E-A90A-296DE66D12BD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
