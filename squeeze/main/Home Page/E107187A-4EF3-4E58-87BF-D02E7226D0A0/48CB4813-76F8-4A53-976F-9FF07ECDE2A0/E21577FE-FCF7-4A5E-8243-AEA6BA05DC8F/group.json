@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E21577FE-FCF7-4A5E-8243-AEA6BA05DC8F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6F0351AC-DA8C-4D1D-828C-5419AEA1962B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CDCBA144-66B7-4633-872E-35C3DA9A76A8",
+    "height": 57,
+    "width": 269,
+    "x": 1176,
+    "y": 451
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E7BFC586-7EBF-44BE-A486-D397CBF24A97"
+    },
+    {
+      "class": "bitmap",
+      "id": "84736195-D9F2-4B51-BC11-501E4E63392A"
+    },
+    {
+      "class": "text",
+      "id": "BF37CA44-CC83-4471-9B00-80AA097B0FB9"
+    }
+  ],
+  "name": "Fitbit Btn",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B6459733-D062-4814-AFB2-2DD121B73A99",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

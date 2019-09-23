@@ -93,8 +93,16 @@
       "id": "3420691B-A0F6-4A6E-9B55-E318B45B3BEF"
     },
     {
+      "class": "artboard",
+      "id": "6CF58A0A-E798-4266-A663-E134319F83AD"
+    },
+    {
+      "class": "artboard",
+      "id": "B13B4D2D-8C08-4522-A2BF-4EC700D33822"
+    },
+    {
       "class": "symbolMaster",
-      "id": "13BF5926-0598-4D4B-BB4F-686D0E1E3181"
+      "id": "89C725FB-660D-4EA7-9A58-045A3BAD8001"
     }
   ],
   "name": "Symbols",

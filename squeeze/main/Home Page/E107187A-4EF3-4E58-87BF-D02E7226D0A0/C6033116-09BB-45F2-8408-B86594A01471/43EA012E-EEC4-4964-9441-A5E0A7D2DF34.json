@@ -24,11 +24,11 @@
             "_class": "paragraphStyle"
           }
         },
-        "length": 28,
+        "length": 22,
         "location": 0
       }
     ],
-    "string": "Command Center for Your Race"
+    "string": "Goal Oriented Training"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 46,
-    "width": 502,
+    "width": 359,
     "x": 0,
     "y": 250
   },
-  "glyphBounds": "{{2, 9}, {498, 28}}",
+  "glyphBounds": "{{2, 10}, {356, 35}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -61,7 +61,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Command Center for Y",
+  "name": "Goal Oriented Traini",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

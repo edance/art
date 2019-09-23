@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 830,
+    "height": 1157,
     "width": 2766,
     "x": -736,
-    "y": 39
+    "y": 40
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,11 +27,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "D8176159-3A7E-4DEF-AF37-E9838413ED90"
+      "class": "group",
+      "id": "631B7E55-C112-458B-955F-42F444627702"
     },
     {
       "class": "text",
@@ -56,6 +56,14 @@
     {
       "class": "group",
       "id": "716A6294-6EE6-4207-A98F-FD078C6FE12F"
+    },
+    {
+      "class": "group",
+      "id": "E21577FE-FCF7-4A5E-8243-AEA6BA05DC8F"
+    },
+    {
+      "class": "bitmap",
+      "id": "A804BDB3-E5B1-4BBB-A0BE-6438DC1D945F"
     }
   ],
   "name": "Hero",
